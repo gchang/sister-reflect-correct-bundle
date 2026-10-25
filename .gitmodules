@@ -1,0 +1,6 @@
+[submodule "sister-reflect_correct"]
+	path = sister-reflect_correct
+	url = https://github.com/sister-jpl/sister-reflect_correct.git
+[submodule "hytools"]
+	path = hytools
+	url = https://github.com/EnSpec/hytools.git
